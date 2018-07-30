@@ -1,9 +1,6 @@
-# MAvha code test
+# Code test
 
-A Spring Boot restful api for MAvha code test
-
-### Technical test
-[Link to document](https://docs.google.com/document/d/1hR-ri1I2wK9K2t8xDi1wN-jVBu7NYymtPZtWqhxiz0M)
+A Spring Boot restful api for ---- code test
 
 ### Technology stack:
 * Spring Boot
